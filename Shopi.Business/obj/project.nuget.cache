@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "BHftho3uro8eD1zxC6ejY/l4uko6jcVHfWLGmNtzx5Pd9ENFiJrknWJyyHjcSnvBgcVWiAk75AlKuo+UixcwbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Baris\\Desktop\\gitTest\\CQRS\\Shopi.WebAPI\\Shopi.Business\\Shopi.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Baris\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512",
+    "C:\\Users\\Baris\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.3\\fluentvalidation.aspnetcore.9.5.3.nupkg.sha512",
+    "C:\\Users\\Baris\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.3\\fluentvalidation.dependencyinjectionextensions.9.5.3.nupkg.sha512",
+    "C:\\Users\\Baris\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Baris\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Baris\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Baris\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

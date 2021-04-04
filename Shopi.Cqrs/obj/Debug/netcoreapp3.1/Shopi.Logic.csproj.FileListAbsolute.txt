@@ -1,0 +1,16 @@
+C:\Users\Baris\Desktop\gitTest\CQRS\Shopi.WebAPI\Shopi.Logic\obj\Debug\netcoreapp3.1\Shopi.Logic.csprojAssemblyReference.cache
+C:\Users\Baris\Desktop\gitTest\CQRS\Shopi.WebAPI\Shopi.Logic\obj\Debug\netcoreapp3.1\Shopi.Logic.AssemblyInfoInputs.cache
+C:\Users\Baris\Desktop\gitTest\CQRS\Shopi.WebAPI\Shopi.Logic\obj\Debug\netcoreapp3.1\Shopi.Logic.AssemblyInfo.cs
+C:\Users\Baris\Desktop\gitTest\CQRS\Shopi.WebAPI\Shopi.Logic\obj\Debug\netcoreapp3.1\Shopi.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Baris\Desktop\gitTest\CQRS\Shopi.WebAPI\Shopi.Logic\bin\Debug\netcoreapp3.1\Shopi.Logic.deps.json
+C:\Users\Baris\Desktop\gitTest\CQRS\Shopi.WebAPI\Shopi.Logic\bin\Debug\netcoreapp3.1\Shopi.Logic.dll
+C:\Users\Baris\Desktop\gitTest\CQRS\Shopi.WebAPI\Shopi.Logic\bin\Debug\netcoreapp3.1\Shopi.Logic.pdb
+C:\Users\Baris\Desktop\gitTest\CQRS\Shopi.WebAPI\Shopi.Logic\bin\Debug\netcoreapp3.1\Shopi.Models.dll
+C:\Users\Baris\Desktop\gitTest\CQRS\Shopi.WebAPI\Shopi.Logic\bin\Debug\netcoreapp3.1\Shopi.Repository.dll
+C:\Users\Baris\Desktop\gitTest\CQRS\Shopi.WebAPI\Shopi.Logic\bin\Debug\netcoreapp3.1\Shopi.Repository.pdb
+C:\Users\Baris\Desktop\gitTest\CQRS\Shopi.WebAPI\Shopi.Logic\bin\Debug\netcoreapp3.1\Shopi.Models.pdb
+C:\Users\Baris\Desktop\gitTest\CQRS\Shopi.WebAPI\Shopi.Logic\obj\Debug\netcoreapp3.1\Shopi.Logic.csproj.CopyComplete
+C:\Users\Baris\Desktop\gitTest\CQRS\Shopi.WebAPI\Shopi.Logic\obj\Debug\netcoreapp3.1\Shopi.Logic.dll
+C:\Users\Baris\Desktop\gitTest\CQRS\Shopi.WebAPI\Shopi.Logic\obj\Debug\netcoreapp3.1\Shopi.Logic.pdb
+C:\Users\Baris\Desktop\gitTest\CQRS\Shopi.WebAPI\Shopi.Logic\bin\Debug\netcoreapp3.1\Shopi.Business.dll
+C:\Users\Baris\Desktop\gitTest\CQRS\Shopi.WebAPI\Shopi.Logic\bin\Debug\netcoreapp3.1\Shopi.Business.pdb

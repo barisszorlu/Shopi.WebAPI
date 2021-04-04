@@ -1,0 +1,12 @@
+C:\Users\Baris\Desktop\gitTest\Shopi.WebAPI\Shopi.Repository\bin\Release\netcoreapp3.1\Shopi.Repository.deps.json
+C:\Users\Baris\Desktop\gitTest\Shopi.WebAPI\Shopi.Repository\bin\Release\netcoreapp3.1\Shopi.Repository.dll
+C:\Users\Baris\Desktop\gitTest\Shopi.WebAPI\Shopi.Repository\bin\Release\netcoreapp3.1\Shopi.Repository.pdb
+C:\Users\Baris\Desktop\gitTest\Shopi.WebAPI\Shopi.Repository\bin\Release\netcoreapp3.1\Shopi.Models.dll
+C:\Users\Baris\Desktop\gitTest\Shopi.WebAPI\Shopi.Repository\bin\Release\netcoreapp3.1\Shopi.Models.pdb
+C:\Users\Baris\Desktop\gitTest\Shopi.WebAPI\Shopi.Repository\obj\Release\netcoreapp3.1\Shopi.Repository.csprojAssemblyReference.cache
+C:\Users\Baris\Desktop\gitTest\Shopi.WebAPI\Shopi.Repository\obj\Release\netcoreapp3.1\Shopi.Repository.AssemblyInfoInputs.cache
+C:\Users\Baris\Desktop\gitTest\Shopi.WebAPI\Shopi.Repository\obj\Release\netcoreapp3.1\Shopi.Repository.AssemblyInfo.cs
+C:\Users\Baris\Desktop\gitTest\Shopi.WebAPI\Shopi.Repository\obj\Release\netcoreapp3.1\Shopi.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Baris\Desktop\gitTest\Shopi.WebAPI\Shopi.Repository\obj\Release\netcoreapp3.1\Shopi.Repository.csproj.CopyComplete
+C:\Users\Baris\Desktop\gitTest\Shopi.WebAPI\Shopi.Repository\obj\Release\netcoreapp3.1\Shopi.Repository.dll
+C:\Users\Baris\Desktop\gitTest\Shopi.WebAPI\Shopi.Repository\obj\Release\netcoreapp3.1\Shopi.Repository.pdb
